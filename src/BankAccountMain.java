@@ -47,6 +47,8 @@ public class BankAccountMain {
     }
 
     public static void printOptions(){
+        System.out.println("");
+        System.out.println("");
         System.out.println("Here are your options: ");
         System.out.println("Enter 'D' for deposit");
         System.out.println("Enter 'W' for withdrawal");
